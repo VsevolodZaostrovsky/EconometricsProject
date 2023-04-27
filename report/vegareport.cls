@@ -110,7 +110,7 @@
 
 \ProcessKeyvalOptions*
 \ifvegareport@russian
-    \renewcommand{\textDocumentType}   {Отчет по проекту}
+    \renewcommand{\textDocumentType}   {Отчет по студенческой научной группе}
     \renewcommand{\textTableofcontents}{Содержание}
     \renewcommand{\textListoffigures}  {Список иллюстраций}
     \renewcommand{\textListoftables}   {Список таблиц}
@@ -180,8 +180,6 @@
         \restoregeometry
         \pagestyle{empty}\pagenumbering{roman}
         \tableofcontents
-        \listoffigures
-        \listoftables
         \newpage
         \pagestyle{fancy}\pagenumbering{arabic}\setcounter{page}{3}
 }
