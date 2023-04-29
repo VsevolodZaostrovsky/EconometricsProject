@@ -57,7 +57,7 @@
         \section{Модель с 'классическими' объясняющими переменными}
         Целевой параметр описывается уравнением:
         \begin{align*}
-        Happiness = \beta_0 + \beta_1 \lg{GDP} + \beta_2 Unemployment + \beta_3 Tax + \beta_4 Inflation + \beta_5 Medicine + \beta_6 Education
+        Happiness = \beta_0 + \beta_1 \lg{GDP} + \beta_2 Unemployment + \beta_3 Tax + \beta_4 Inflation + \beta_5 Medicine + \beta_6 Education.
         \end{align*}
 
         Здесь $\lg{GDP}$ --- логарифм ВВП по ППС; $Unemployment$ --- уровень безработицы; $Tax$ -- налоговая нагрузка физических лиц. $Inflation$ --- инфляция; $Medicine$ --- государственные расходы на медицину; $Education$ --- государственные расходы на образование \footnote{см. \ref{table}}.
@@ -69,7 +69,7 @@
         Целевой параметр описывается уравнением:
         \begin{align*}
         Happiness = \beta_0 + \beta_1 \lg{GDP} + \beta_2 Unemployment + \beta_3 Tax + \beta_4 Inflation + \beta_5 Medicine + \beta_6 Education \\
-            + \beta_7 Military + \beta_8 Savings + \beta_{9} AgeRatio + \beta_{10} Homicides + \beta_{11} Fertility
+            + \beta_7 Military + \beta_8 Savings + \beta_{9} AgeRatio + \beta_{10} Homicides + \beta_{11} Fertility.
         \end{align*}
 
         Здесь $\lg{GDP}$ --- логарифм ВВП по ППС; $Unemployment$ --- уровень безработицы; $Tax$ -- налоговая нагрузка физических лиц. $Inflation$ --- инфляция; $Medicine$ --- государственные расходы на медицину; $Education$ --- государственные расходы на образование; $Military$ --- государственные военные расходы; $Savings$ --- валовая экономия; $Patents$ --- число зарегистрированных патентов по отношению к населению государства; $AgeRatio$ --- демографическая нагрузка; $Homicides$ --- число убийств на тысячу человек \footnote{см. \ref{table}}.
@@ -81,9 +81,8 @@
         Результаты регрессионного анализа в рамках двух описанных выше моделей представлены в таблице 3.1 Они вполне предсказуемы: значимого эффекта у переменных вне рамок первой модели обнаружено не было, направление же влияния показателей на уровень счастья согласуется с результатами исследований (\ref{review}). При этом, добавление новых переменных не привело к изменению коэффициентов при объясняющих переменных и их уровней значимости.
         \begin{figure}
             \centering
-            \includegraphics[scale=0.9]{Report/table 2.jpg}
-            \includegraphics[scale=0.9]{Report/table 1.jpg}
-            \caption{Результаты оценивания регрессии оценки уровня счастья WHR для двух спецификаций основной модели}
+            \includegraphics[scale=0.8]{Report/mtable.png}
+            \caption{Результаты оценивания регрессии оценки уровня счастья WHR для двух спецификаций основной модели.}
             \label{lect02:pic1}
         \end{figure}
         \\
@@ -96,7 +95,7 @@
         \begin{figure} \label{hompic}
             \centering
             \includegraphics[scale=0.45]{Report/homicides.png}
-            \caption{Число убийств на 100000 человек за 2015 год --- данные Всемирного Банка)}
+            \caption{Число убийств на 100000 человек за 2015 год --- данные Всемирного Банка).}
             \label{lect02:pic1}
         \end{figure}
         Что касается незначимости остальных факторов, пожалуй, примечательной была бы ситуация их значимости. Они были добавлены в модель исключительно с целью проверки очевидных соображений и для лучшей эндогенности модели. Это небесполезно, ибо последние нередко оказываются не такими уж очевидными.
@@ -109,7 +108,7 @@
             \centering
             \includegraphics[scale=0.5]{Report/meded1.png}
             \includegraphics[scale=0.5]{Report/meded2.png}
-            \caption{Доля трат в государственном бюджете на медицину и образование, соответственно, за 2015 год}
+            \caption{Доля трат в государственном бюджете на медицину и образование, соответственно, за 2015 год.}
             \label{lect02:pic1}
         \end{figure}
 
