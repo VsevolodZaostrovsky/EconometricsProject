@@ -4,7 +4,7 @@
   (generated)
   "report.bbl"
   "report.blg"
-["pdflatex"] 1693051249 "e:/Программы/VSC/GHrepos/EconometricsProject/report/report.tex" "report.pdf" "report" 1693051249
+["pdflatex"] 1693051890 "e:/Программы/VSC/GHrepos/EconometricsProject/report/report.tex" "report.pdf" "report" 1693051890
   "c:/Users/zaos2/.texlive2022/texmf-var/fonts/tfm/lh/lh-t2a/larm1000.tfm" 1657876121 3220 0e417eaf233b160335902e97259a6c77 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/paratype/ptserif_t2a.enc" 1657544312 2672 ff6b42a392401edb43438bba49912b97 ""
   "c:/texlive/2022/texmf-dist/fonts/enc/dvips/paratype/ptserif_ts1.enc" 1657544312 2908 5e3ae9118aca60c4c9ac65feaa88d6f7 ""
@@ -218,16 +218,16 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1657567264 4634946 d2848b86361d48ab78eef9225f65482b ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1657567426 2864805 7d544713492beb1fb1b2d8e798fd088a ""
   "c:/texlive/2022/texmf.cnf" 1657567242 713 e69b156964470283e0530f5060668171 ""
-  "e:/Программы/VSC/GHrepos/EconometricsProject/report/report.tex" 1693051241 30390 826944985ec35306271b568782f5b3b9 ""
+  "e:/Программы/VSC/GHrepos/EconometricsProject/report/report.tex" 1693051883 30919 646f96b5b1936594c1647f7df81ec0ed ""
   "homicides.png" 1693050277 201560 7a5711c3eaf19415f185aae9006ada5a ""
   "meded1.png" 1693050277 206057 a44f5855e0ea5a4bb798cb462ee6fddb ""
   "meded2.png" 1693050277 204674 30376e3e2abf54d1a4b39082cdae337b ""
   "mtable.png" 1693050277 17670 1c9a3b75ed32284f853c7790db9d5cb3 ""
-  "report.aux" 1693051249 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "report.aux" 1693051890 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "report.bbl" 0 -1 0 "biber report"
   "report.out" 0 -1 0 "pdflatex"
   "report.run.xml" 0 -1 0 "pdflatex"
-  "report.tex" 1693051241 30390 826944985ec35306271b568782f5b3b9 ""
+  "report.tex" 1693051883 30919 646f96b5b1936594c1647f7df81ec0ed ""
   "report.toc" 0 -1 0 "pdflatex"
   "vega_letter_white.pdf" 1693050277 336251 44078c4d2e583393573c7b2c49699dcd ""
   "vega_logo_smaller.png" 1693050277 28136 3581411062d42b0e3d6c873bffe73980 ""

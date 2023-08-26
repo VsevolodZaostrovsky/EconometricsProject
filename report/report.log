@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.11)  26 AUG 2023 15:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.11)  26 AUG 2023 15:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1175,115 +1175,115 @@ No file report.toc.
 ]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
 
-Overfull \hbox (0.42061pt too wide) in paragraph at lines 13--22
+Overfull \hbox (0.42061pt too wide) in paragraph at lines 13--36
 \T2A/PTSerif-TLF/m/n/10 фор-ма-ли-за-ции и даль-ней-ше-го ко-ли-че-ствен-но-го ис-сле-до-ва-ния ре-зуль-та-тов. Мы бу-дем рас-
  []
 
 [3
 
 ]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 24.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
  (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for T1+PTSerif-TLF on input line 39.
+LaTeX Font Info:    Trying to load font information for T1+PTSerif-TLF on input line 53.
  (c:/texlive/2022/texmf-dist/tex/latex/paratype/T1PTSerif-TLF.fd
 File: T1PTSerif-TLF.fd 2014/02/02 Font definitions for T1/PTSerif-TLF.
 )<<t1.cmap>>
 <vega_logo_smaller.png, id=60, 618.81187pt x 184.43906pt>
 File: vega_logo_smaller.png Graphic file (type png)
 <use vega_logo_smaller.png>
-Package pdftex.def Info: vega_logo_smaller.png  used on input line 39.
+Package pdftex.def Info: vega_logo_smaller.png  used on input line 53.
 (pdftex.def)             Requested size: 33.46106pt x 9.97108pt.
  [4 <./vega_logo_smaller.png>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 
-LaTeX Warning: Reference `Easterlin' on page 5 undefined on input line 42.
+LaTeX Warning: Reference `Easterlin' on page 5 undefined on input line 56.
 
 
-LaTeX Warning: Reference `KahnemanDeaton' on page 5 undefined on input line 47.
+LaTeX Warning: Reference `KahnemanDeaton' on page 5 undefined on input line 61.
 
 
-LaTeX Warning: Reference `DiTella' on page 5 undefined on input line 52.
+LaTeX Warning: Reference `DiTella' on page 5 undefined on input line 66.
 
 
-LaTeX Warning: Reference `Winkelmann' on page 5 undefined on input line 60.
+LaTeX Warning: Reference `Winkelmann' on page 5 undefined on input line 74.
 
 
-LaTeX Warning: Reference `Clarkunemp' on page 5 undefined on input line 61.
+LaTeX Warning: Reference `Clarkunemp' on page 5 undefined on input line 75.
 
 
-LaTeX Warning: Reference `tax' on page 5 undefined on input line 67.
+LaTeX Warning: Reference `tax' on page 5 undefined on input line 81.
 
 
-LaTeX Warning: Reference `Inflation' on page 5 undefined on input line 70.
+LaTeX Warning: Reference `Inflation' on page 5 undefined on input line 84.
 
 
-LaTeX Warning: Reference `medicine' on page 5 undefined on input line 77.
+LaTeX Warning: Reference `medicine' on page 5 undefined on input line 91.
 
 
-LaTeX Warning: Reference `Education' on page 5 undefined on input line 77.
+LaTeX Warning: Reference `Education' on page 5 undefined on input line 91.
 
 [5
 
 ]
-Overfull \hbox (45.0421pt too wide) detected at line 88
+Overfull \hbox (45.0421pt too wide) detected at line 102
 []
  []
 
 
-LaTeX Warning: Reference `table' on page 6 undefined on input line 90.
+LaTeX Warning: Reference `table' on page 6 undefined on input line 107.
 
 
-Overfull \hbox (42.26431pt too wide) detected at line 100
+Overfull \hbox (42.26431pt too wide) detected at line 118
 []
  []
 
 
-LaTeX Warning: Reference `table' on page 6 undefined on input line 102.
+LaTeX Warning: Reference `table' on page 6 undefined on input line 125.
 
 File: vega_logo_smaller.png Graphic file (type png)
 <use vega_logo_smaller.png>
-Package pdftex.def Info: vega_logo_smaller.png  used on input line 107.
+Package pdftex.def Info: vega_logo_smaller.png  used on input line 130.
 (pdftex.def)             Requested size: 33.46106pt x 9.97108pt.
 [6]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
-LaTeX Warning: Reference `review' on page 7 undefined on input line 108.
+LaTeX Warning: Reference `review' on page 7 undefined on input line 134.
 
 <mtable.png, id=101, 299.1175pt x 839.135pt>
 File: mtable.png Graphic file (type png)
 <use mtable.png>
-Package pdftex.def Info: mtable.png  used on input line 111.
+Package pdftex.def Info: mtable.png  used on input line 138.
 (pdftex.def)             Requested size: 239.29431pt x 671.3089pt.
 
-LaTeX Warning: Float too large for page by 115.7887pt on input line 114.
+LaTeX Warning: Float too large for page by 115.7887pt on input line 141.
 
 
-LaTeX Warning: Reference `review' on page 7 undefined on input line 116.
+LaTeX Warning: Reference `review' on page 7 undefined on input line 146.
 
 
-LaTeX Warning: Reference `hompic' on page 7 undefined on input line 118.
+LaTeX Warning: Reference `hompic' on page 7 undefined on input line 155.
 
 <homicides.png, id=102, 983.675pt x 575.14874pt>
 File: homicides.png Graphic file (type png)
 <use homicides.png>
-Package pdftex.def Info: homicides.png  used on input line 125.
+Package pdftex.def Info: homicides.png  used on input line 167.
 (pdftex.def)             Requested size: 442.64966pt x 258.81454pt.
 
-Overfull \hbox (24.39598pt too wide) in paragraph at lines 125--126
+Overfull \hbox (24.39598pt too wide) in paragraph at lines 167--168
  [][] 
  []
 
 
-LaTeX Warning: Reference `meded' on page 7 undefined on input line 133.
+LaTeX Warning: Reference `meded' on page 7 undefined on input line 177.
 
 
-Overfull \hbox (0.37665pt too wide) in paragraph at lines 108--136
+Overfull \hbox (0.37665pt too wide) in paragraph at lines 131--184
 \T2A/PTSerif-TLF/m/n/10 Во-вторых, бы-ло об-на-ру-же-но сла-бое зна-чи-мое по-ло-жи-тель-ное вли-я-ния чис-ла убийств (мы
  []
 
@@ -1292,44 +1292,44 @@ Overfull \hbox (0.37665pt too wide) in paragraph at lines 108--136
 ]
 File: vega_logo_smaller.png Graphic file (type png)
 <use vega_logo_smaller.png>
-Package pdftex.def Info: vega_logo_smaller.png  used on input line 136.
+Package pdftex.def Info: vega_logo_smaller.png  used on input line 184.
 (pdftex.def)             Requested size: 33.46106pt x 9.97108pt.
  [8 <./mtable.png (PNG copy)>]
 <meded1.png, id=114, 985.6825pt x 575.14874pt>
 File: meded1.png Graphic file (type png)
 <use meded1.png>
-Package pdftex.def Info: meded1.png  used on input line 139.
+Package pdftex.def Info: meded1.png  used on input line 187.
 (pdftex.def)             Requested size: 492.84004pt x 287.57367pt.
 <meded2.png, id=115, 985.6825pt x 574.145pt>
 File: meded2.png Graphic file (type png)
 <use meded2.png>
-Package pdftex.def Info: meded2.png  used on input line 140.
+Package pdftex.def Info: meded2.png  used on input line 188.
 (pdftex.def)             Requested size: 492.84004pt x 287.0718pt.
 
-Overfull \hbox (74.58636pt too wide) in paragraph at lines 139--141
+Overfull \hbox (74.58636pt too wide) in paragraph at lines 187--189
  [][] 
  []
 
 
-Overfull \hbox (74.58636pt too wide) in paragraph at lines 139--141
+Overfull \hbox (74.58636pt too wide) in paragraph at lines 187--189
  [] 
  []
 
 
-LaTeX Warning: Float too large for page by 19.91527pt on input line 143.
+LaTeX Warning: Float too large for page by 19.91527pt on input line 191.
 
 File: vega_logo_smaller.png Graphic file (type png)
 <use vega_logo_smaller.png>
-Package pdftex.def Info: vega_logo_smaller.png  used on input line 146.
+Package pdftex.def Info: vega_logo_smaller.png  used on input line 194.
 (pdftex.def)             Requested size: 33.46106pt x 9.97108pt.
 [9 <./homicides.png (PNG copy)>]
 File: vega_logo_smaller.png Graphic file (type png)
 <use vega_logo_smaller.png>
-Package pdftex.def Info: vega_logo_smaller.png  used on input line 146.
+Package pdftex.def Info: vega_logo_smaller.png  used on input line 194.
 (pdftex.def)             Requested size: 33.46106pt x 9.97108pt.
  [10 <./meded1.png (PNG copy)> <./meded2.png (PNG copy)>]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
-LaTeX Font Info:    Trying to load font information for TS1+PTSerif-TLF on input line 151.
+LaTeX Font Info:    Trying to load font information for TS1+PTSerif-TLF on input line 201.
 (c:/texlive/2022/texmf-dist/tex/latex/paratype/TS1PTSerif-TLF.fd
 File: TS1PTSerif-TLF.fd 2014/02/02 Font definitions for TS1/PTSerif-TLF.
 ) [11
@@ -1340,52 +1340,52 @@ File: TS1PTSerif-TLF.fd 2014/02/02 Font definitions for TS1/PTSerif-TLF.
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.226 \end{document}
+l.278 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.226 \end{document}
+l.278 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.226 \end{document}
+l.278 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.226 \end{document}
+l.278 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.226 \end{document}
+l.278 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.226 \end{document}
+l.278 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.226 \end{document}
+l.278 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.226 \end{document}
+l.278 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.226 \end{document}
+l.278 \end{document}
                     
 pdfTeX warning (ext4): destination with the same identifier (name{cite.}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.226 \end{document}
+l.278 \end{document}
                     ] (./report.aux)
 
 LaTeX Warning: There were undefined references.
@@ -1417,7 +1417,7 @@ Here is how much of TeX's memory you used:
  49298 multiletter control sequences out of 15000+600000
  569412 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 115i,15n,118p,1670b,1727s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,15n,118p,1660b,1727s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {c:/texlive/2022/texmf-dist/fonts/enc/dvips/paratype/ptserif_t2a.enc}{c:/texlive/2022/texmf-dist/fonts/enc/dvips/paratype/ptserif_ts1.enc}<c:/texlive/2022/texmf-dist/fonts/type1/paratype/ptserif/PTF55F.pfb><c:/texlive/2022/texmf-dist/fonts/type1/paratype/ptserif/PTF55F.pfb><c:/texlive/2022/texmf-dist/fonts/type1/paratype/ptserif/PTF56F.pfb><c:/texlive/2022/texmf-dist/fonts/type1/paratype/ptserif/PTF75F.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
 Output written on report.pdf (12 pages, 1086496 bytes).
 PDF statistics:
